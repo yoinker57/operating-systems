@@ -1,0 +1,3 @@
+Po przeprowadzeniu kilku testów zauważyłem że biblioteka
+dynamiczna działa najszybciej, jednak czasy są mocno zbliżone
+Czasy użytkownika i systemu są bliskie 0.

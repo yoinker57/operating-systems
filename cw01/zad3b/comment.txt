@@ -1,0 +1,3 @@
+Jak można zauważyć ponownie najszybciej działa biblioteka dynamiczna,
+jednak z obserwacji czasy są bardzo do siebie zbliżone dla wszystkich bibliotek,
+Możemy zauważyć że im większa flaga -O tym program działa szybciej.

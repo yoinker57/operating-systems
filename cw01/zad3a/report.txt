@@ -1,0 +1,121 @@
+static:
+>>> Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.002456 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.002438 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.002539 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>>   67  169 1960 ../zad1/wc.c
+
+Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>>  16  43 477 ../zad1/wc.h
+
+Real time: 0.000001 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>>  148  397 4749 ../zad2/main.c
+
+Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> shared:
+>>> Real time: 0.000009 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.002435 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.002020 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.002324 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>>   67  169 1960 ../zad1/wc.c
+
+Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>>  16  43 477 ../zad1/wc.h
+
+Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>>  148  397 4749 ../zad2/main.c
+
+Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000005 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000001 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000001 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000001 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> dynamic:
+>>> Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.002610 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.002471 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.001851 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>>   67  169 1960 ../zad1/wc.c
+
+Real time: 0.000001 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>>  16  43 477 ../zad1/wc.h
+
+Real time: 0.000001 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>>  148  397 4749 ../zad2/main.c
+
+Real time: 0.000001 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000004 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000001 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> Real time: 0.000002 s
+User time: 0.000000 s
+System time: 0.000000 s
+>>> 

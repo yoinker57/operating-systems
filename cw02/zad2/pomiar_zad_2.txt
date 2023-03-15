@@ -1,0 +1,2 @@
+1 char block time: 0.562435 s
+1024 block time: 0.011332 s
