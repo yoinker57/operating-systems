@@ -1,0 +1,42 @@
+ignore
+sygnał jest osiągalny w procesie potomnym
+
+
+handler
+Odebrano sygnal SIGUSR1 w 7857
+Odebrano sygnal SIGUSR1 w 7857
+Odebrano sygnal SIGUSR1 w 7858
+sygnał jest osiągalny w procesie potomnym
+
+
+mask
+Signal blocked: 1 PID: 7862
+sygnał jest osiągalny w procesie potomnym
+Signal blocked: 1 PID: 7863
+
+
+pending
+Parent, Signal blocked: 1 PID: 7867
+Child, Signal blocked: 0 PID: 7868
+
+
+execI
+Sygnał wciąż osiągalny
+
+execM
+Exec process, Signal blocked: 1
+
+
+execP
+Exec process, Signal blocked: 1
+
+
+Wnioski:
+ignore: Sygnał ignorowany w obydwu
+handler: Obsłużony w obydwu
+mask: Maska działa w obydwu
+pending: widoczny w rodzicy, niewidoczny w dziecku
+
+execIgnore: Sygnał ignorowany w obydwu,
+execMask: Widoczny w obydwu
+execPending: Widoczny w obydwu
